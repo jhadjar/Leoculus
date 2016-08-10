@@ -1,4 +1,4 @@
-# Leoculus
+# LEOCULUS - Automotive Video Interface
 
 ## Brief Summary:
 
