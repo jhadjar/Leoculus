@@ -8,6 +8,7 @@ Here's a schematic:
 
 ![Schematic](https://github.com/jhadjar/Leoculus/blob/master/Doc/leoculus.png)
 
+&nbsp;
 
 | Input signals | Output Signals|
 | --------------|---------------|
