@@ -15,7 +15,7 @@ There are after-market interfaces with many features for these cars, but they ar
 
 
 ### How:
-The interface transmits the camera feed when it's on reverse, and the on-boar computer's feed otherwise. It's a 2 to 1 mux. It has to decode and serialize the input video signal first.
+The interface transmits the camera feed when it's on reverse, and the on-board computer's feed otherwise. It's a 2 to 1 mux. It has to decode and serialize the input video signal first.
 
 Here's a schematic:
 
