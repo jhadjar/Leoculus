@@ -39,3 +39,6 @@ Here's a schematic:
 
 &nbsp;
 
+### Details:
+
+![CamSpecs](https://github.com/jhadjar/Leoculus/blob/master/Doc/cam.jpg)
