@@ -17,7 +17,7 @@ Here's a schematic:
 * Injected into a multiplexer. Input selected when the car is on "reverse".
 * The other multiplexer's input is active otherwise and relays what the head-unit normally shows.
 
-| Input signals | Connectors | Output Signals | Connectors |
+| Input signal | Connector | Output Signal | Connector |
 | --------------|-----------|----------------|-----------|
 | On-board computer | LVDS-HSD | Digital video to LCD screen | LVDS HSD|
 | RVC CVBS| RCA connector|
