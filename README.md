@@ -19,7 +19,7 @@ The interface transmits the camera feed when it's on reverse, and the on-board c
 
 Here's a schematic:
 
-![Schematic](https://github.com/jhadjar/Leoculus/blob/master/Doc/leoculus.png)
+![Schematic](https://github.com/jhadjar/Leoculus/blob/master/Doc/leoculus.png "Diagram explaining the process")
 
 &nbsp;
 
@@ -41,4 +41,5 @@ Here's a schematic:
 
 ### Details:
 
-![CamSpecs](https://github.com/jhadjar/Leoculus/blob/master/Doc/cam.jpg)
+<img style="float: left;" src="https://github.com/jhadjar/Leoculus/blob/master/Doc/cam.jpg">
+
