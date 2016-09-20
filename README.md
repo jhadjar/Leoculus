@@ -17,11 +17,11 @@ Here's a schematic:
 * Injected into a multiplexer. Input selected when the car is on "reverse".
 * The other multiplexer's input is active otherwise and relays what the head-unit normally shows.
 
-| Input signals | Output Signals|
-| --------------|---------------|
-| On-board computer – LVDS HSD connector | Digital video through LVDS to TFT LCD screen – LVDS HSD connector. |
-| Rear view camera's CVBS – RCA connector. | 
-| Reverse light + GND – 2 pin connector.|
+| Input signals | Connectors | Output Signals | Connectors |
+| --------------|-----------|----------------|-----------|
+| On-board computer | LVDS-HSD | Digital video to LCD screen | LVDS HSD|
+| RVC CVBS| RCA connector|
+| Reverse light + GND | 2 pin connector|
 
 &nbsp;
 
