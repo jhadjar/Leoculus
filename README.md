@@ -41,5 +41,14 @@ Here's a schematic:
 
 ### Details:
 
-<img style="float: left;" src="https://github.com/jhadjar/Leoculus/blob/master/Doc/cam.jpg">
+| Camera | Specs |
+|--------|-------|
+|<img style="float: left; display:inline-block;" src="https://github.com/jhadjar/Leoculus/blob/master/Doc/cam.jpg">|<ul><li> Technology: CCD.cam</li><li>Oscillator: 27MHz (from teardown).</li><li>Output signal: Analog, CVBS. NTSC/PAL.</li><li>Connector: RCA plug.</li><li>Chipset: PC3089</li></ul>|
 
+| Screen | Specs |
+|--------|-------|
+|<img style="float: left;" width=250px src="https://github.com/jhadjar/Leoculus/blob/master/Doc/screen.jpg">|<ul><li>Tech: TFT LCD touchscreen.</li><li>Make: Continental. EMF DGT2 CEM01</li><li>Dimensions: 7″, 800×480</li><li>Connector: 4pin Fakra HSD-LVDS 90° jack</li></ul>|
+
+| Connector | Specs |
+|--------|-------|
+|<ul><li><img style="float: left;" width=250px src="https://github.com/jhadjar/Leoculus/blob/master/Doc/208connector.png"></li><li><img style="float: left;" width=250px src="https://github.com/jhadjar/Leoculus/blob/master/Doc/conn.jpg"></li><li><img style="float: left;" width=250px src="https://github.com/jhadjar/Leoculus/blob/master/Doc/conn_diagram.png"></li></ul>|<ul><li>Reference: D4S20G-400A5-B</li><li>Color: White (type B).</li><li>Number of Pins: 4.</li><li>Manufacturers: Rosenberger, Amphenol, Yamaichi, etc.</li></ul>|
